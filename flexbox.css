@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    width: 90%;
+}
+
+
+.animal img {
+    width: 200px; 
+    
+}
